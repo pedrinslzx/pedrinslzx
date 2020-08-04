@@ -1,12 +1,16 @@
-### 👋 Hello
-My name is Pedro, I'm Brazilian, I'm 14 years old, I started programming at the age of 13.
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-### 💻 Technologies
-Program in javascript with [express](https://expressjs.com), [react](https://reactjs.org/) and [expo](https://expo.io/)([react-native](https://reactnative.dev/)) frameworks
 
-### 🧡 Recent work
-I have been working on a project with my father, called "Firm Console" for now. The idea is a program for buyers
+# Pedrinho Lemes
 
-### 📱 Contact via
-[Instagram](https://instagram.com/pedrinho.lemes)
-[Twitter](https://twitter.com/pedrinho_lemes)
+## Olá pessoal 👋
+Sou apaixonado pelos frameworks [Express](https://expressjs.com), [ReactJS](https://reactjs.org),
+Sou Dev Backend explorando o Frontend :computer:
+
+ No momento não trabalho, mas:
+ <br/> :purple_heart: &nbsp; Estou buscando aprender e conhecer mais tecnologias frontend
+ <br/> :computer: &nbsp; Minha stack: Node.js, ReactJS
+ <br/> 💬  &nbsp; Sobre mim: Sou viciado em Netflix, Sou cristão e ajudo com design em meu grupo de adoles
+ <br/> :email: &nbsp; Entre em contato comigo: &nbsp;&nbsp; [![Instagram Badge](https://img.shields.io/badge/-@pedrinho.lemes-5851DB?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedrinho.lemes/)](https://www.instagram.com/pedrinho.lemes/) 
+&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-pedroca21265@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroca21265@gmail.com)](mailto:pedroca21265@gmail.com)
