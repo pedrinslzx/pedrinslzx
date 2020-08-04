@@ -1,10 +1,10 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://github.com/pedrinholemes/pedrinholemes/blob/master/banner.png">
 
 
 # Pedrinho Lemes
 
 ## Olá pessoal 👋
-Sou apaixonado pelos frameworks [Express](https://expressjs.com), [ReactJS](https://reactjs.org),
+Sou apaixonado em frameworks, como: [Express](https://expressjs.com), [ReactJS](https://reactjs.org),
 Sou Dev Backend explorando o Frontend :computer:
 
  No momento não trabalho, mas:
