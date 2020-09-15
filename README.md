@@ -1,4 +1,4 @@
-<img width="auto" src="https://picsum.photos/1500/500.jpg">
+<img width="auto" src="https://picsum.photos/1500/400">
 
 
 # Pedrinho Lemes
