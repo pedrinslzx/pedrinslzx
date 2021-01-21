@@ -1,12 +1,6 @@
 <img width="auto" src="./banner.svg">
 
-
-# Pedrinho Lemes
-
 ## Olá pessoal 👋
-Utilizo as libs: [Express](https://npmjs.com/package/express), [ReactJS](https://npmjs.com/package/react), [Discord.JS](https://npmjs.com/package/discord.js),
+Meu nome é Pedro Henrique, tenho 15 anos e sou de Guarapuava PR. Sou cristão, auxilio no site da Rádio Betel e sou o criador do bot para Discord, [John](https://github.com/pedrinholemes/jonh-bot). No momento não trabalho, mas estou mantendo o projeto JohnBot.
 
-No momento não trabalho, mas:
-:purple_heart: &nbsp; Estou buscando aprender e conhecer mais tecnologias
-💬  &nbsp; Sobre mim: Sou cristão, auxilio no site da Rádio Betel e sou o cirador do [Bot John](https://github.com/pedrinholemes/jonh-bot), 
-:email: &nbsp; Entre em contato comigo: <pedroca21265@gmail.com> <https://pedrinholemes.web.app>
+:email: Entre em contato comigo: <pedroca21265@gmail.com> <https://pedrinholemes.web.app>
