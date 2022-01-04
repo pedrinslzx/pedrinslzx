@@ -7,8 +7,8 @@ Sou cristão, e no momento não trabalho, por isso estou a procura de estágios.
 :email: Entre em contato comigo: <pedroca21265@gmail.com> <https://pedrinholemes.vercel.app>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrinholemes&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinholemes&layout=compact&langs_count=8&theme=dark"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrinholemes&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinholemes&layout=compact&langs_count=8&theme=dark"/> 
 </div>
 <div>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrinholemes&repo=node-pix&theme=dark"/>
