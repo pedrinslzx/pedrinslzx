@@ -5,3 +5,5 @@ Meu nome é Pedro Henrique, tenho 16 anos e sou de Guarapuava PR.<br>
 Sou cristão, e no momento não trabalho, por isso estou a procura de estágios. :)<br>
 
 :email: Entre em contato comigo: <pedroca21265@gmail.com> <https://pedrinholemes.vercel.app>
+
+<img width="100%" src="https://github.com/pedrinholemes/pedrinholemes/blob/output/github-contribution-grid-snake.svg"/>
