@@ -1,9 +1,8 @@
 <img width="100%" src="./banner.svg">
 
 ## Olá pessoal 👋
-Meu nome é Pedro Henrique, tenho 16 anos e sou de Guarapuava PR.<br>
-Sou cristão, e no momento não trabalho, por isso estou a procura de estágios. :)<br>
+Meu nome é Pedro Henrique, tenho 18 anos e sou de Guarapuava PR.<br>
 
-:email: Entre em contato comigo: <pedroca21265@gmail.com> <https://pedrinholemes.vercel.app>
+:email: Entre em contato comigo: <eu@pedrin.com.br> <https://pedrin.com.br>
 
 <img width="100%" src="https://github.com/pedrinholemes/pedrinholemes/blob/output/github-contribution-grid-snake.svg"/>
